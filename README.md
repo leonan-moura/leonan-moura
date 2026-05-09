@@ -15,7 +15,7 @@ Aqui compartilho projetos, estudos e aplicações desenvolvidas durante minha jo
 <img 
     align="left" 
     alt="Golang"
-    title="HTML" 
+    title="Golang" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"
