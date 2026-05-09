@@ -14,7 +14,7 @@ Aqui compartilho projetos, estudos e aplicações desenvolvidas durante minha jo
 
 <img 
     align="left" 
-    alt="HTML"
+    alt="Golang"
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
