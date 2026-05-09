@@ -4,7 +4,7 @@
 
 Me chamo Leonan Ciscato de Moura, tenho 19 anos e sou estudante de Engenharia de Software na UnC.
 
-Atualmente atuo como Assistente de Suporte Técnico e estudo desenvolvimento back-end, com foco na construção de APIs e aplicações escaláveis.
+Estudo arquitetura de software e desenvolvimento back-end, com foco na construção de APIs e aplicações escaláveis.
 
 Aqui compartilho projetos, estudos e aplicações desenvolvidas durante minha jornada como estudante.
 
