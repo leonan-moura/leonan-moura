@@ -1,32 +1,24 @@
 # Leonan Moura
 
-**`Estudante de Programação`**
+**`Programming Student`**
 
-Me chamo Leonan Ciscato de Moura, sou estudante de Engenharia de Software na UnC.
+My name is Leonan Ciscato de Moura, I'm a Software Engineering student at UnC.
 
-Estudo arquitetura de software e desenvolvimento back-end, com foco na construção de APIs e aplicações escaláveis.
+I study software architecture and back-end development, focusing on building APIs and scalable applications.
 
-Aqui compartilho projetos, estudos e aplicações desenvolvidas durante minha jornada.
+Here, I share projects, studies, and applications developed during my journey.
 
 ---
 
-### Linguagens e Tecnologias
+### Tech Stack
 
 <img 
     align="left" 
-    alt="Golang"
-    title="Golang" 
+    alt="Csharp"
+    title="Csharp" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 />
 <img 
     align="left" 
@@ -35,6 +27,14 @@ Aqui compartilho projetos, estudos e aplicações desenvolvidas durante minha jo
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
     align="left" 
