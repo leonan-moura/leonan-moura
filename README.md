@@ -1,7 +1,3 @@
-# Leonan Moura
-
-**`Programming Student`**
-
 My name is Leonan Ciscato de Moura, I'm a Software Engineering student at UnC.
 
 I study software architecture and back-end development, focusing on building APIs and scalable applications.
@@ -10,15 +6,13 @@ Here, I share projects, studies, and applications developed during my journey.
 
 ---
 
-### Tech Stack
-
 <img 
     align="left" 
-    alt="Csharp"
-    title="Csharp" 
+    alt="NodeJS"
+    title="NodeJS" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 <img 
     align="left" 
