@@ -1,6 +1,6 @@
 My name is Leonan Ciscato de Moura, I'm a Software Engineering student at UnC.
 
-I study software architecture and back-end development, focusing on building APIs and scalable applications.
+I study software architecture and back-end development, focusing on scalable systems and software quality.
 
 Here, I share projects, studies, and applications developed during my journey.
 
