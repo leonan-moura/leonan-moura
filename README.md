@@ -74,7 +74,7 @@ Here, I share my cybersecurity studies, vulnerability research, and security-foc
     </div>
     
 <div align="center"><br>
-    <a href="www.linkedin.com/in/leonanmoura" target="_blank">
+    <a href="www.linkedin.com/in/leonanmoura">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href="mailto:leonan.ciscatomoura@gmail.com">
