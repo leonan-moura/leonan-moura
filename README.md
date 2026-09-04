@@ -1,26 +1,26 @@
-My name is Leonan Ciscato de Moura, I'm a Software Engineering student at UnC.
+I'm Leonan Ciscato de Moura. As a Software Engineering student at UnC with experience in back-end development, I focus on the intersection between code and security.
 
-I study software architecture and back-end development, focusing on scalable systems and software quality.
+I am currently diving deep into Offensive Security
 
-Here, I share projects, studies, and applications developed during my journey.
+Here, I share my cybersecurity studies, vulnerability research, and security-focused projects.
 
 ---
 
 <img 
     align="left" 
-    alt="NodeJS"
-    title="NodeJS" 
+    alt="kalilinux"
+    title="Kalilinux" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg"
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="Python"
+    title="Python" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  
 />
 <img 
     align="left" 
@@ -48,11 +48,27 @@ Here, I share projects, studies, and applications developed during my journey.
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="Bash" 
+    title="Bash"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg"    
+/>
+<img 
+    align="left" 
+    alt="Postman"
+    title="Postman" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
+    />
+    <img 
+    align="left" 
+    alt="Insomnia"
+    title="Insomnia" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg"
     />
     
 <br/>
